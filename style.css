@@ -1,0 +1,56 @@
+.p1{
+    background-color: aqua;
+    font-style: italic;
+    border-top: 4px solid black;
+    border-bottom:4px solid black ;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+}
+
+.p2{
+    background-color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 4px solid black;
+    border-bottom:4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+    text-align: center;
+}
+.p3{
+    background-color: cadetblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 4px solid black;
+    border-bottom:4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+}
+.p4{
+    background-color: magenta;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 4px solid black;
+    border-bottom:4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+}
+h4{
+    background-color: brown;
+    text-align: center;
+    border-top: 4px solid black;
+    border-bottom:4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    border-top: 4px solid black;
+    border-bottom:4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+}
+.p5{
+    text-align: center;
+}
